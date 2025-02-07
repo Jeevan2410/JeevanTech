@@ -2,7 +2,6 @@ import React, { Component } from "react";
 
 export class Chat extends Component {
   componentDidMount() {
-
     (function(d, m){
         var kommunicateSettings = 
             {"appId":"1724a3eb19be21181d4a35a83815af99e","popupWidget":true,"automaticChatOpenOnNavigation":true};

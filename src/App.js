@@ -9,7 +9,7 @@ import LandingPage from 'pages/LandingPage';
 import ProjectPage from 'pages/ProjectPage';
 import NotFoundPage from 'pages/NotFoundPage';
 import TeamPage from 'pages/TeamPage';
-import Chat from 'Chat';
+import Chat1 from 'Chat';
 
 import { ProjectDetailPage } from 'pages/ProjectDetailPage';
 import { DiscussProjectPage } from 'pages/DiscussProjectPage';
@@ -28,7 +28,7 @@ function App() {
         <Route path="**" element={<NotFoundPage />} />
 
       </Routes>
-      <Chat />
+      <Chat1 />
     </>
   );
 }

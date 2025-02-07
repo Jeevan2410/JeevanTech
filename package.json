@@ -7,6 +7,7 @@
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.13.0",
     "@headlessui/react": "^2.1.2",
+    "@kommunicate/kommunicate-chatbot-plugin": "^0.0.7",
     "@tailwindcss/forms": "^0.5.7",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
