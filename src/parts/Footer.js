@@ -42,7 +42,7 @@ export default function Footer() {
             <Button href="https://www.linkedin.com/in/jeevan-kumar001/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               LinkedIn
             </Button>
-            <Button href="https://github.com/Jeevan2410" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+            <Button href="https://github.com/3T3RN4TU5" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               Github
             </Button>
           </div>
